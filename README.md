@@ -8,7 +8,7 @@ const crixtiangm = {
   databases: [MySQL, MongoDB]
 }
 ```
-
+[![Linkedin](https://img.shields.io/badge/-crixtiangm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristiangomezdeveloper-2a7644230/)
 ![](https://komarev.com/ghpvc/?username=crixtiangm&style=flat)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crixtiangm)](https://github.com/anuraghazra/github-readme-stats)
