@@ -1,6 +1,6 @@
 ### Hi, I'm Cristian G. 👋
 
-## About me in code
+### About me in code
 
 ```js
 const crixtiangm = {
