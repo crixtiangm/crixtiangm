@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=crixtiangm_icons=true&theme=algolia&count_private=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crixtiangm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **crixtiangm/crixtiangm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
