@@ -1,4 +1,4 @@
-### Hi I'm Cristian G. 👋
+### Hi, I'm Cristian G. 👋
 
 ```js
 const crixtiangm = {
