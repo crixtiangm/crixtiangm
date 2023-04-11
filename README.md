@@ -1,7 +1,5 @@
 ### Hi, I'm Cristian G. 👋
 
-### About me in code
-
 ```js
 const crixtiangm = {
   pronouns: "he" | "him",
