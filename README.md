@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crixtiangm)](https://github.com/anuraghazra/github-readme-stats)
 
-...JS
+...js
 const crixtiangm = {
   pronouns: "he" | "him",
   code: [JavaScript, Python, Java, CSS, HTML],
