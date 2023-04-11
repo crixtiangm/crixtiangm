@@ -3,8 +3,8 @@
 ```js
 const crixtiangm = {
   pronouns: "he" | "him",
-  code: [JavaScript, Python, Java, CSS, HTML],
-  tools: [React, Node, Express, Tailwind, PrimeFaces],
+  code: [JavaScript, Python, PHP, CSS, HTML],
+  tools: [React, Node, Express, Tailwind, Laravel],
   databases: [MySQL, MongoDB]
 }
 ```
