@@ -4,7 +4,7 @@
 const crixtiangm = {
   pronouns: "he" | "him",
   code: [JavaScript, Python, PHP, CSS, HTML],
-  tools: [React, React Native, Node, Express, Tailwind, Laravel],
+  tools: [React, React Native, Next, Node, Express, Tailwind, Laravel],
   databases: [MySQL, MongoDB]
 }
 ```
